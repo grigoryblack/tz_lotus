@@ -1,0 +1,12 @@
+{
+  "people": [
+    {"id": 1, "firstName": "John", "lastName": "Doe", "age": 30, "height": 180, "weight": 70},
+    {"id": 2, "firstName": "Jane", "lastName": "Doe", "age": 25, "height": 160, "weight": 55},
+    {"id": 3, "firstName": "Alice", "lastName": "Smith", "age": 28, "height": 170, "weight": 65},
+    {"id": 4, "firstName": "Bob", "lastName": "Johnson", "age": 35, "height": 175, "weight": 80},
+    {"id": 5, "firstName": "John", "lastName": "Smith", "age": 32, "height": 185, "weight": 75},
+    {"id": 6, "firstName": "Eve", "lastName": "Jones", "age": 22, "height": 155, "weight": 50},
+    {"id": 7, "firstName": "Charlie", "lastName": "Brown", "age": 40, "height": 190, "weight": 85},
+    {"id": 8, "firstName": "David", "lastName": "Clark", "age": 27, "height": 175, "weight": 72}
+  ]
+}
